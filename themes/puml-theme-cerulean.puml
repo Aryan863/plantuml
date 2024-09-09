@@ -17,6 +17,8 @@ skinparam useBetaStyle false
 ''
 '' Colors taken from the css file of the BS theme
 ''
+
+!$PRS = "#9D70F7"
 !$BLUE = "#033C73"
 !$INDIGO = "#6610F2"
 !$PURPLE = "#6F42C1"
@@ -45,8 +47,8 @@ skinparam useBetaStyle false
 ''          and SHADE is calculated by clr * (1 - shade_factor)
 ''
 !$FGCOLOR = $DARK
-!$PRIMARY_LIGHT = "#59B6EC"
-!$PRIMARY_DARK = "#2683B9"
+!$PRIMARY_LIGHT = "#9D70F7"
+!$PRIMARY_DARK = "#9D70F7"
 !$PRIMARY_TEXT = $WHITE
 !$SECONDARY_LIGHT = "#EDF0F2"
 !$SECONDARY_DARK = "#BABDBF"
